@@ -7,7 +7,7 @@ It allows users to check the current weather in any region of the world and view
 
 ## 📸 Preview
 
-*(Optional: Add a screenshot or GIF here showing the app interface)*
+---![Captura de tela 2025-05-01 234403](https://github.com/user-attachments/assets/cd4d2e8f-c507-4576-a800-7877fdf747f0)
 
 ---
 
@@ -28,14 +28,15 @@ It allows users to check the current weather in any region of the world and view
 * [OpenWeatherMap API](https://openweathermap.org/api)
 * `.env` file with `python-dotenv`
 
----
+
+
 
 ## 📦 Installation
 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/weather-forecast-app.git
+git clone https://github.com/Derek-dev-777/weather-forecast-app.git
 cd weather-forecast-app
 ```
 
