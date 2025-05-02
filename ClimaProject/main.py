@@ -62,7 +62,7 @@ def main(page: ft.Page):
         update_climate(e)
 
     page.bgcolor = ft.colors.BLACK
-    page.title = "Clima Tempo"
+    page.title = "ClimateAPP"
     page.window.width = 400
     page.window.height = 844
     
